@@ -1,0 +1,24 @@
+.wrapper {
+    padding: calc(var(--mantine-spacing-xl) * 2) var(--mantine-spacing-xl);
+    animation: 1s ease-out 0s slideInLeft;
+    @keyframes slideInLeft {
+        0% {
+            transform: translateX(-100%);
+        }
+        100% {
+            transform: translateX(0);
+        }
+    }
+  }
+  
+  
+  .title {
+    font-family: Greycliff CF, var(--mantine-font-family);
+    font-size: rem(36px);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: var(--mantine-spacing-md);
+    color: light-dark(var(--mantine-color-black), var(--mantine-color-white));
+  }
+
+  
