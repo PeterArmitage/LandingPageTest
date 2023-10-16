@@ -33,7 +33,10 @@ const data = [
   const items = data.map((item) => (
     <Menu.Item
       leftSection={item.image}
-      onClick={() => setSelected(item)}
+      onClick={() => {
+        setSelected(item);
+        item.label === 'English' ? changeLanguage('en') : changeLanguage('br');
+      }}
       key={item.label}
     >
       {item.label}
