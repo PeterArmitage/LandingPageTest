@@ -1,5 +1,16 @@
 {
-   "title": "de cuidados com animais de estimação",
+   "title": "de grooming.",
    "titleSpan": "profissional",
-   "first": "Um serviço"
+   "first": "Um serviço",
+   "grooming": {
+      "groomTitle": "Oferecemos serviços de grooming de alta qualidade para cães e gatos no conforto da sua casa, usando nossa estação portátil.",
+      "bulletOneTitle": "Sistema de agendamento fácil -",
+      "bulletOne": "Agende compromissos que atendam às suas necessidades e disponibilidade.",
+      "bulletTwoTitle": "Não precisca esperar -",
+      "bulletTwo": "pule a fila e leve-nos até a sua porta.",
+      "bulletThreeTitle": "Banhos Medicinais -",
+      "bulletThree": "Podemos cuidar de tipos de banhos especiais para cuidar das condições do seu pet.",
+      "contact": "Contate-nos",
+      "appointment": "Agendamento"
+   }
 }

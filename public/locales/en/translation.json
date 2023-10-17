@@ -1,6 +1,17 @@
 {
     "title": "pet grooming service",
     "titleSpan": "professional",
-    "first": "A"
+    "first": "A",
+    "grooming": {
+        "groomTitle": "We provide high quality grooming services for both cats and dogs at the comfort of your own home using our state of the art in-van grooming station.",
+        "bulletOneTitle": "Easy booking system -",
+        "bulletOne": "Schedule appointments that suit your needs and availability.",
+        "bulletTwoTitle": "No appointment waiting -",
+        "bulletTwo": "Skip the line and have us brought to your front doorstep.",
+        "bulletThreeTitle": "Medicinal Bathing -",
+        "bulletThree": "We can take care of special types of baths to take care of your pets conditions.",
+        "contact": "Contact us",
+        "appointment": "Schedule Appointment"
+    }
  
 }

@@ -15,7 +15,7 @@ import AppointmentCard from '../Appointments/AppointmentCardCat';
 
 export function HeroBullets() {
   const [opened, { open, close }] = useDisclosure(false);
-  const { t } = useTranslation(['translation', 'title', 'titleSpan']);
+  const { t } = useTranslation();
   return (
     <Container size="md">
       <div className={classes.inner} data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
@@ -24,8 +24,7 @@ export function HeroBullets() {
              {t('first')}<span className={classes.highlight}>{t('titleSpan')}</span>{t('title')}
           </Title>
           <Text c="dimmed" mt="md">
-            We provide high quality grooming services for both cats and dogs at the comfort of your
-            own home using our state of the art in-van grooming station.
+           {t('grooming.groomTitle')}
           </Text>
 
           <List
@@ -39,29 +38,26 @@ export function HeroBullets() {
             }
           >
             <List.Item>
-              <b>Easy booking system</b> – Schedule appointments that suit your
-              needs and availability.
+              <b>{t('grooming.bulletOneTitle')}</b> {t('grooming.bulletOne')}
             </List.Item>
             <List.Item>
-              <b>No appointment waiting</b> – Skip the line and have us brought
-              to your front doorstep.
+              <b>{t('grooming.bulletTwoTitle')}</b> {t('grooming.bulletTwo')}
             </List.Item>
             <List.Item>
-              <b>Medicinal Bathing</b> – We can take care of special types of
-              baths to take care of your pets conditions.
+              <b>{t('grooming.bulletThreeTitle')}</b> {t('grooming.bulletThree')}
             </List.Item>
           </List>
 
           <Group mt={30}>
           <Button radius="xl" size="md" className={classes.control} onClick={open}>
-              Schedule appointment
+              {t('grooming.appointment')}
 
           </Button>
             <Modal opened={opened} onClose={close} title="Appointment Sheet">
        <AppointmentCard />
             </Modal>
             <Button radius="xl" size="md" className={classes.control}>
-              Contact us
+              {t('grooming.contact')}
             </Button>
           </Group>
 
