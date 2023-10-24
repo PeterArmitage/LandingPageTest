@@ -33,6 +33,24 @@
         }
      ],
      "featuresTitleHeader": "A convenient way to groom your pet for busy people",
-     "featuresText": "Since we began in 2021, we have been working to deliver the best grooming service possible. The busy day to day life of the current generation leaves little time to travel to vet stores,so why not bring the pet store to you? People choose us for:" 
+     "featuresText": "Since we began in 2021, we have been working to deliver the best grooming service possible. The busy day to day life of the current generation leaves little time to travel to vet stores,so why not bring the pet store to you? People choose us for:",
+     "schedule": "Schedule Now!",
+     "convenient": "We are convenient",
+     "lineSkip": "Skip the waiting line and let us come to you.",
+     "lineSkipText": "Ever arrive for your appointment on time only to have to wait even longer? That wont happen with us.",
+     "mockDataArray": [
+        {
+            "title": "Scehduled appointments",
+            "description": "Schedule your appointment, and we will arrive on time at the designated location. No waiting time."
+        },
+        {
+            "title": "Privacy focused",
+            "description": "Nothing is disclosed to other people, everything is between us and the owner of the animals."
+        },
+        {
+            "title": "Special Care",
+            "description": "We understand that every animal is different and needs special attention, so we do the utmost to make your pet feel loved."
+        }
+     ] 
  
 }

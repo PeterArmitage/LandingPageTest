@@ -34,5 +34,23 @@
       }
    ],
    "featuresTitleHeader": "Uma maneira conveniente de cuidar do seu pet para pessoas ocupadas",
-   "featuresText": "Desde que começamos em 2021, trabalhamos para oferecer o melhor serviço de tosa e banho possível. O dia a dia agitado da geração atual deixa pouco tempo para se deslocar até as lojas veterinárias, então por que não levar a pet shop até você? As pessoas nos escolhem para:"   
+   "featuresText": "Desde que começamos em 2021, trabalhamos para oferecer o melhor serviço de tosa e banho possível. O dia a dia agitado da geração atual deixa pouco tempo para se deslocar até as lojas veterinárias, então por que não levar a pet shop até você? As pessoas nos escolhem para:",
+   "schedule": "Agende Agora!",
+   "convenient": "Nós somos convenientes",
+   "lineSkip": "Evite a fila e deixe-nos ir até você.",
+   "lineSkipText": "Você já chegou na hora certa para sua consulta e teve que esperar ainda mais? Isso não vai acontecer conosco.",
+   "mockDataArray": [
+      {
+          "title": "Consultas agendadas",
+          "description": "Agende seu horário e chegaremos pontualmente no local designado. Sem espera."
+      },
+      {
+          "title": "Foco na privacidade",
+          "description": "Nada é divulgado a outras pessoas, tudo é privado e mantido entre nós e o dono dos animais"
+      },
+      {
+          "title": "Cuidado especial",
+          "description": "Entendemos que cada animal é diferente e precisa de atenção especial, por isso fazemos o máximo para que seu pet se sinta amado."
+      }
+   ]       
 }

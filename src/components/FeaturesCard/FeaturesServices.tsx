@@ -1,7 +1,7 @@
-import { Image, Text, Container, ThemeIcon, Title, SimpleGrid } from '@mantine/core';
+/* eslint-disable max-len */
+import { Text, Container, ThemeIcon, Title, SimpleGrid } from '@mantine/core';
 import classes from './FeaturesServices.module.css';
 import data from './Data';
-
 
 export function FeaturesServices() {
   const items = data.map((item) => (
@@ -20,10 +20,9 @@ export function FeaturesServices() {
   ));
 
   return (
-   
 
     <Container size={700} className={classes.wrapper}>
-      <div data-aos="fade-up" data-aos-delay='500' data-aos-duration='1000'>
+      <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
 
       <Text className={classes.supTitle}>Our Routine</Text>
 
@@ -43,6 +42,6 @@ export function FeaturesServices() {
       </SimpleGrid>
       </div>
     </Container>
-    
+
   );
 }

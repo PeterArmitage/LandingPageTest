@@ -74,7 +74,7 @@ const features = [
             mt="xl"
             onClick={open}
           >
-            Schedule Now!
+            {t('schedule')}
           </Button>
           <Modal opened={opened} onClose={close} title="Appointment Sheet">
        <AppointmentCard />
