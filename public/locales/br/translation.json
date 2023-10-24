@@ -17,20 +17,22 @@
    "pricingButton": "Preços",
    "featuresArray": [
       {
-         "title": "Alguma coisa",
-         "description": "Sabe?"
+         "title": "Atendimento 24 horas",
+         "description": "Nossa equipe trabalha 24 horas por dia para oferecer os melhores serviços, com equipes de especialistas."
       },
       {
-         "title": "",
-         "description": ""
+         "title": "Estação de tosa e banho.",
+         "description": "Orgulhamo-nos de oferecer o melhor serviço possível com a tecnologia mais nova disponível"
       },
       {
-         "title": "",
-         "description": ""
+         "title": "Sem esperar na fila",
+         "description": "Por que esperar sua vez, quando você pode ter alguém trabalhando na sua porta?"
       },
       {
-         "title": "",
-         "description": ""
+         "title": "flexível",
+         "description": "Anytime, at your convenience, we will be at your doorstep."
       }
-   ] 
+   ],
+   "featuresTitleHeader": "Uma maneira conveniente de cuidar do seu pet para pessoas ocupadas",
+   "featuresText": "Desde que começamos em 2021, trabalhamos para oferecer o melhor serviço de tosa e banho possível. O dia a dia agitado da geração atual deixa pouco tempo para se deslocar até as lojas veterinárias, então por que não levar a pet shop até você? As pessoas nos escolhem para:"   
 }

@@ -20,20 +20,20 @@ const features = [
   {
     id: 2,
     icon: IconTruck,
-    title: 'State of the art grooming station',
-    description: 'We pride ourselves on proving the best service possible with the latest technology available',
+    title: t('featuresArray.1.title'),
+    description: t('featuresArray.1.description'),
   },
   {
     id: 3,
     icon: IconCircleDotted,
-    title: 'No annoying waiting in line',
-    description: 'Why wait your turn, when you can have someone work aroud you?',
+    title: t('featuresArray.2.title'),
+    description: t('featuresArray.2.description'),
   },
   {
     id: 4,
     icon: IconFlame,
-    title: 'Flexible',
-    description: 'Anytime, at your convenience, we will be at your doorstep.',
+    title: t('featuresArray.3.title'),
+    description: t('featuresArray.2.description'),
   },
 ];
   const items = features.map((feature) => (
@@ -60,13 +60,10 @@ const features = [
       <Grid gutter={80}>
         <Grid.Col span={{ base: 12, md: 5 }}>
           <Title className={classes.title} order={2}>
-            A convenient way to groom your pet for busy people
+            {t('featuresTitleHeader')}
           </Title>
           <Text c="dimmed">
-            Since we began in 2021, we have been working to deliver the best grooming service possible.
-            The busy day to day life of the current generation leaves little time to travel to vet stores,
-            so why not bring the pet store to you?
-            People choose us for:
+            {t('featuresText')}
           </Text>
 
           <Button
