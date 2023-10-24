@@ -13,6 +13,24 @@
         "contact": "Contact us",
         "appointment": "Schedule Appointment"
     },
-    "pricingButton": "Pricing"
+    "pricingButton": "Pricing",
+    "featuresArray": [
+        {
+           "title": "Around the clock service",
+           "description": "Our team is working 24 hours a day to provide the best services, with seperate teams of specialists."
+        },
+        {
+           "title": "State of the art grooming station",
+           "description": "We pride ourselves on proving the best service possible with the latest technology available"
+        },
+        {
+           "title": "No annoying waiting in line",
+           "description": "Why wait your turn, when you can have someone work aroud you?"
+        },
+        {
+           "title": "Flexible",
+           "description": "Anytime, at your convenience, we will be at your doorstep."
+        }
+     ] 
  
 }

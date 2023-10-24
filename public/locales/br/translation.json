@@ -11,7 +11,26 @@
       "bulletThreeTitle": "Banhos Medicinais -",
       "bulletThree": "Podemos cuidar de tipos de banhos especiais para cuidar das condições do seu pet.",
       "contact": "Contate-nos",
-      "appointment": "Agendamento",
-      "pricingButton": "Preços"
-   }
+      "appointment": "Agendamento"
+      
+   },
+   "pricingButton": "Preços",
+   "featuresArray": [
+      {
+         "title": "Alguma coisa",
+         "description": "Sabe?"
+      },
+      {
+         "title": "",
+         "description": ""
+      },
+      {
+         "title": "",
+         "description": ""
+      },
+      {
+         "title": "",
+         "description": ""
+      }
+   ] 
 }

@@ -15,7 +15,7 @@ function PricingTable() {
         <Table.Tr>
           <Table.Th>Service</Table.Th>
           <Table.Th>Price</Table.Th>
-          
+
         </Table.Tr>
       </Table.Thead>
       <Table.Tbody>{rows}</Table.Tbody>
@@ -23,4 +23,4 @@ function PricingTable() {
   );
 }
 
-export default PricingTable
+export default PricingTable;
