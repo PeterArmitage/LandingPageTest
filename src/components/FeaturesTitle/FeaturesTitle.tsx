@@ -50,7 +50,7 @@ const features = [
         {t(feature.title)}
       </Text>
       <Text c="dimmed" fz="sm">
-        {feature.description}
+        {t(feature.description)}
       </Text>
     </div>
   ));

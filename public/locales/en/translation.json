@@ -51,6 +51,27 @@
             "title": "Special Care",
             "description": "We understand that every animal is different and needs special attention, so we do the utmost to make your pet feel loved."
         }
+     ],
+     "routine":"Our Routine",
+     "serviceTitle": "Come and get to know our service.",
+     "goal": " Our goal is to provide the best grooming service possible, while providing a safe and calming environment. We value your time,and so we have a routine to follow that will get us in and out in no time, so you dont have to wait around all day.",
+     "dataArray": [
+        {
+            "title": "Check-in",
+            "description": "Meet and greet with your fluffy ball of fur."
+        },
+        {
+            "title": "Bath and Hydrate",
+            "description": "Gently massage and hydrate to remove oil and dirt from your fluffy ball of love."
+        },
+        {
+            "title": "Dry and comb",
+            "description": "We use a variety of methods to dry varying from handheld to tablestand, depending on the size of the animal and what he is comfortable with."
+        },
+        {
+            "title": "Haircut and perfume",
+            "description": "We give your animal a trim or cut catered to request and leave them smelling pawesome on exit!"
+        }
      ] 
  
 }

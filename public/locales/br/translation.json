@@ -29,7 +29,7 @@
          "description": "Por que esperar sua vez, quando você pode ter alguém trabalhando na sua porta?"
       },
       {
-         "title": "flexível",
+         "title": "Flexível",
          "description": "Anytime, at your convenience, we will be at your doorstep."
       }
    ],
@@ -52,5 +52,26 @@
           "title": "Cuidado especial",
           "description": "Entendemos que cada animal é diferente e precisa de atenção especial, por isso fazemos o máximo para que seu pet se sinta amado."
       }
-   ]       
+   ],
+   "routine": "Nossa Rotina",
+   "serviceTitle": "Venha conhecer nosso serviço.",
+   "goal": "Nosso objetivo é fornecer o melhor serviço de grooming possível, proporcionando um ambiente seguro e tranquilo. Valorizamos o seu tempo, e por isso temos uma rotina a seguir que nos fará entrar e sair rapidamente, para que você não precise esperar o dia todo.",
+   "dataArray": [
+      {
+          "title": "Check-in",
+          "description": "Conheça e cumprimente com sua bola de pelo fofa."
+      },
+      {
+          "title": "Banho e Hidratação",
+          "description": "Massageie suavemente e hidrate para remover a oleosidade e a sujeira."
+      },
+      {
+          "title": "Secar e pentear",
+          "description": "Usamos uma variedade de métodos de secagem, variando de mão a mesa, dependendo do tamanho do animal e do que ele se sente confortável."
+      },
+      {
+          "title": "Tosa e perfume",
+          "description": "Damos ao seu animal um tosa ou tosa conforme solicitado e os deixamos com um cheiro agradável na saída!"
+      }
+   ]         
 }
