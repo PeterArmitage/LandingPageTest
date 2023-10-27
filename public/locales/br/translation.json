@@ -73,5 +73,40 @@
           "title": "Tosa e perfume",
           "description": "Damos ao seu animal um tosa ou tosa conforme solicitado e os deixamos com um cheiro agradável na saída!"
       }
-   ]         
+   ],
+   "contactArray": [
+      {
+          "title": "Email"
+      },
+      {
+          "title": "Fone"
+      },
+      {
+          "title": "Endereço"
+      },
+      {
+          "title": "Horario de funcionamento"
+      }
+   ],
+   "getInTouch": "Entrar em Contato",
+   "contactInfo": "Informações de contato",
+   "sendMsg": "Enviar mensagem",
+   "fieldTitle": [
+      {
+          "title": "Seu nome",
+          "description": "Nome..."
+      },
+      {
+          "title": "Seu email",
+          "description": "meuemail@gmail.com"
+      },
+      {
+          "title": "Assunto",
+          "description": "Título do assunto..."
+      },
+      {
+          "title": "Sua mensagem",
+          "description": "Por favor inclua todas as informações relevantes"
+      }
+   ]              
 }

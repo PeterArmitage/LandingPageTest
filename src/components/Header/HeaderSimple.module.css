@@ -36,6 +36,11 @@
   .dog {
     translate: 0 -20px;
 
+    @media(max-width: em(576px)) {
+      display: none;
+    }
+  
+
   }
 
   .image {
@@ -51,4 +56,8 @@
   .company {
     font-family: 'Indie Flower', cursive;
     font-size: 35px;
+
+    @media(max-width: em(576px)) {
+      display: none;
+    }
   }

@@ -72,6 +72,41 @@
             "title": "Haircut and perfume",
             "description": "We give your animal a trim or cut catered to request and leave them smelling pawesome on exit!"
         }
+     ],
+     "contactArray": [
+        {
+            "title": "Email"
+        },
+        {
+            "title": "Phone"
+        },
+        {
+            "title": "Address"
+        },
+        {
+            "title": "Working hours"
+        }
+     ],
+     "getInTouch": "Get in Touch",
+     "contactInfo": "Contact Information",
+     "sendMsg": "Send Message",
+     "fieldTitle": [
+        {
+            "title": "Your Name",
+            "description": "Name..."
+        },
+        {
+            "title": "Your email",
+            "description": "myemail@gmail.com"
+        },
+        {
+            "title": "Subject",
+            "description": "Title of subject"
+        },
+        {
+            "title": "Your message",
+            "description": "Please include all relevant information"
+        }
      ] 
  
 }

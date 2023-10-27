@@ -9,17 +9,18 @@ import { FeaturesTitle } from './components/FeaturesTitle/FeaturesTitle';
 import { FooterSocial } from './components/Footer/FooterSocial';
 import { FeaturesCards } from './components/FeaturesCard/FeaturesCards';
 import { FeaturesServices } from './components/FeaturesCard/FeaturesServices';
-import  GetInTouch  from './Contacts/GetInTouch';
+import GetInTouch from './Contacts/GetInTouch';
+
 export default function App() {
   return (
     <MantineProvider theme={theme}>
       <Router />
-      <HeaderSimple/>
+      <HeaderSimple />
       <HeroBullets />
       <FeaturesTitle />
       <FeaturesCards />
       <FeaturesServices />
-      <GetInTouch /> 
+      <GetInTouch />
       <FooterSocial />
     </MantineProvider>
   );
